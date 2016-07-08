@@ -2,7 +2,7 @@
 
 Today at my company, I found a code which intrested me so much. And I thought it would be nice to write down about this in my TIL.
 
-## What I knew untill now about vriable initalization
+## What I knew untill now about variable initalization
 * When using variable, initialize. __Period.__
 * **Example**
 
@@ -84,3 +84,6 @@ Hello World
 So my conclusion is that the variable initialization is done by the compiler(gcc), but it varys by the version of the compiler.
 **BUT, I doubt that initializing a variable before using is a very important thing to remember when writing a code (At least in C)...
 Let's be independent from the specific compiler.**
+
+## Special Thank You
+Special thank you to @kssim, who helped me on the testing on various environments and letting me know the typo :)
