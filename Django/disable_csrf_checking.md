@@ -9,7 +9,7 @@ Reference : [Cross Site Request Forgery protection](https://docs.djangoproject.c
 ## Django and CSRF
 Django Framework has a CSRF protection(validation) by default. And sometimes when I'm testing a API server made with Django, my request is considered a CSRF attsack.
 
-![Image of Django CSRF Validation](django_csrf_validation.png)
+![Image of Django CSRF Validation](https://github.com/Dry8r3aD/TodayILearned/blob/master/image/django_csrf_validation.png)
 
 ## Disabling Django CSRF Validation
 * Before
